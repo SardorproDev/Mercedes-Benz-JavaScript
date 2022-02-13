@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7299f42-ed07-48ad-a547-190bd31a17a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../10-savol/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-savol/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../34-dars. SetInterval setTimeout vs ClearInterval/.idea/34-dars. SetInterval setTimeout vs ClearInterval.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../34-dars. SetInterval setTimeout vs ClearInterval/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../34-dars. SetInterval setTimeout vs ClearInterval/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../34-dars. SetInterval setTimeout vs ClearInterval/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../34-dars. SetInterval setTimeout vs ClearInterval/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../34-dars. SetInterval setTimeout vs ClearInterval/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../35-dars. Amaliyot Loader/.idea/35-dars. Amaliyot Loader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../35-dars. Amaliyot Loader/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../35-dars. Amaliyot Loader/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../35-dars. Amaliyot Loader/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../36-dars. Data bilan ishlash/.idea/36-dars. Data bilan ishlash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../36-dars. Data bilan ishlash/inde.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../36-dars. Data bilan ishlash/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../38-dars. Konstruktorning funktsiyalari/.idea/38-dars. Konstruktorning funktsiyalari.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../38-dars. Konstruktorning funktsiyalari/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../38-dars. Konstruktorning funktsiyalari/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../39-dars. Context This/.idea/39-dars. Context This.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../39-dars. Context This/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../39-dars. Context This/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../40-dars. Array Function This/.idea/40-dars. Array Function This.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../40-dars. Array Function This/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../40-dars. Array Function This/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../42-dars. Reast Operator vs Sukut Rejimi/.idea/42-dars. Reast Operator vs Sukut Rejimi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../42-dars. Reast Operator vs Sukut Rejimi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../42-dars. Reast Operator vs Sukut Rejimi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../42-dars. Reast Operator vs Sukut Rejimi/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../42-dars. Reast Operator vs Sukut Rejimi/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Project Finish.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Praktika-1/.idea/Praktika-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Praktika-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Praktika-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/001/.idea/001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/001/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/001/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/001/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/001/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/001/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/DOM-ni boshqarish, data-attributlar va for of ning afzalligi/.idea/DOM-ni boshqarish, data-attributlar va for of ning afzalligi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/DOM-ni boshqarish, data-attributlar va for of ning afzalligi/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/DOM-ni boshqarish, data-attributlar va for of ning afzalligi/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/JavaScript.-27-dars-main/.idea/JavaScript.-27-dars-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/JavaScript.-27-dars-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/JavaScript.-27-dars-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/JavaScript.-27-dars-main/JavaScript.-27-dars-main/.idea/JavaScript.-27-dars-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/JavaScript.-27-dars-main/JavaScript.-27-dars-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dom-elementalri-bilan-ishlash/JavaScript.-27-dars-main/JavaScript.-27-dars-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/.idea/fileColors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/.idea/functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../funksiyalar-bilan-ishlash/.idea/funksiyalar-bilan-ishlash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../funksiyalar-bilan-ishlash/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../massivlar/.idea/massivlar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../massivlar/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../massivlar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../objectlar-bilan-ishlash/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../objectlar-bilan-ishlash/.idea/objectlar-bilan-ishlash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../objectlar-bilan-ishlash/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../objectlar-bilan-ishlash/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../objectlar-bilan-ishlash/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../textlar-bilan-ishlash/.idea/textlar-bilan-ishlash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../textlar-bilan-ishlash/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../textlar-bilan-ishlash/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../user-bilan-muloqot/.idea/user-bilan-muloqot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../user-bilan-muloqot/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../user-bilan-muloqot/document.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../001/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../001/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2518RAxLCSL2Mo0OKqdiWvScrWW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7299f42-ed07-48ad-a547-190bd31a17a7" name="Default Changelist" comment="" />
+      <created>1644683222828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644683222828</updated>
+      <workItem from="1644683224180" duration="3527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
